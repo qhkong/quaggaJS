@@ -6,3 +6,5 @@ url: https://serratus.github.io
 host: serratus.github.io
 
 exclude: [node_modules]
+
+theme: jekyll-theme-cayman
